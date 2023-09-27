@@ -26,8 +26,8 @@ Nesse projeto tive dificuldades para centralizar o card, mais com algumas dicas 
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live site URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/profile-card-component-frontend-mentor-mGaId0IQSz)
+- Live Site URL: [Live site URL](https://wagnerpx.github.io/Profile-card-component/)
 
 ## Autor
 
